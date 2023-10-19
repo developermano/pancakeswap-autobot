@@ -1,10 +1,11 @@
-# pancakeswap-autobot
+# PancakeSwap AutoBot
 
-.env file is required
+This is a README file for the PancakeSwap AutoBot project, a Python bot designed to automate certain tasks on the PancakeSwap platform.
 
+## Getting Started
 
----------------------------------------------------------------------
-wallet_private_key="xxxx"
+To set up the PancakeSwap AutoBot, you need to create an `.env` file with the following variables:
 
-wallet_public_key="0x....."
----------------------------------------------------------------------
+```plaintext
+wallet_private_key="Your_Private_Key"
+wallet_public_key="Your_Public_Key"
