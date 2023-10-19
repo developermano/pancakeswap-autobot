@@ -1,6 +1,6 @@
 # PancakeSwap AutoBot
 
-This is a README file for the PancakeSwap AutoBot project, a Python bot designed to automate certain tasks on the PancakeSwap platform.
+This is a Python bot designed to automate certain tasks on the PancakeSwap platform.
 
 ## Getting Started
 
